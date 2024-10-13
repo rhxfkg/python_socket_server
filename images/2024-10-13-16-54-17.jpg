@@ -1,0 +1,17 @@
+GET / HTTP/1.1
+Host: 127.0.0.1:8000
+Connection: keep-alive
+sec-ch-ua: "Whale";v="3", "Not-A.Brand";v="8", "Chromium";v="128"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Whale/3.28.266.14 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.1.1331935774.1715056647; _ga_69MPZE94D5=GS1.1.1715069071.2.0.1715069071.0.0.0; csrftoken=OlUm9caGgo8QQKa0FhEMT6gClxKnmw3J; sessionid=xms6lvn1qfz3ksdl237tscmqq2v7rz4f
+
